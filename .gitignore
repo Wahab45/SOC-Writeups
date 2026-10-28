@@ -1,0 +1,27 @@
+# Never publish raw, potentially sensitive investigation data.
+data/raw/
+captures/raw/
+secrets/
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Raw traces and memory captures should be reviewed and sanitized before sharing.
+*.pcap
+*.pcapng
+*.evtx
+*.etl
+*.dmp
+*.har
+
+# Local editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
