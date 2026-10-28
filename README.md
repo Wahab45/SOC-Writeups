@@ -1,7 +1,7 @@
 # SOC Write-ups
 
-Real-world detection scenarios practiced through TryHackMe SOC Level 1 path.
-Each write-up documents the attack, detection method, and key indicators.
+Documented detection scenarios from simulated training labs, including TryHackMe SOC Level 1.
+Each write-up should distinguish observed evidence from hypotheses, document investigation steps, and clearly identify lab context.
 
 ---
 
@@ -12,3 +12,7 @@ Each write-up documents the attack, detection method, and key indicators.
 | 01 | Windows Threat Detection 2 | Post-Exploitation Detection | ✅ Done |
 
 ---
+
+## Add a new investigation
+
+Use [the evidence-based write-up template](WRITEUP_TEMPLATE.md) for new case studies. Publish only verified, sanitized findings; a completed lesson alone is not necessarily a case study.
