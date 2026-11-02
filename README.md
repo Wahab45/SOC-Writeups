@@ -13,6 +13,8 @@ Evidence-based SOC investigation notes from simulated training labs and previous
 | 03 | [Firewall Port-Scan Triage](03-Firewall-Port-Scan-Triage.md) | DROP events, source aggregation, reconnaissance | Work Trainer simulated SOC lab |
 | 04 | [Phishing Email Triage](04-Phishing-Email-Triage.md) | SPF, Reply-To, typosquatting, suspicious attachment | Work Trainer simulated SOC lab |
 | 05 | [VPN Impossible Travel](05-VPN-Impossible-Travel-T1078.md) | VPN authentication, Tor exit node, access anomaly, containment | Work Trainer simulated SOC lab |
+| 06 | [Webshell on a Web Server](06-Webshell-On-Web-Server-T1505-003.md) | PHP webshell, Nginx log correlation, evidence preservation | Work Trainer simulated SOC lab |
+| 07 | [Ransomware Suspicion on a File Server](07-Ransomware-File-Server-T1486.md) | EDR triage, SMB writes, endpoint isolation, backup recovery checks | Work Trainer simulated SOC lab |
 
 ## Publication standards
 
