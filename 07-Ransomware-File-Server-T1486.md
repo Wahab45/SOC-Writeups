@@ -87,7 +87,7 @@ The analyst discussed and attempted to document:
 - EDR rename and SMB events.
 - A requirement to verify backup integrity and recoverability **before** restoration.
 
-A backup-related sentence was submitted to a shell command once with an incorrect path (`~./ticket.txt`), which generated a file-not-found error. A corrected command was then suggested. At a later point, the simulator still showed two ticket checks as incomplete: classification and host/process naming. A complete ticket command was provided to the learner, but **no subsequent checklist confirmation was shown**. Accordingly, this write-up does not claim that the final incident ticket was accepted or that backups were tested.
+A backup-related sentence was first submitted with an invalid path (`~./ticket.txt`), producing a file-not-found error. A corrected command and a complete ticket entry were subsequently provided. At that stage, two ticket checks were still incomplete. **The analyst later explicitly confirmed that all requirements were completed and correct.** No final checklist output was shared in the conversation, and no backup restoration test was performed.
 
 ### Next steps for a real incident (not performed in the lab)
 
