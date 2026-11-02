@@ -3,7 +3,7 @@
 > **Lab:** Work Trainer / SOC Analyst Trainer — simulated environment  
 > **Severity in simulator:** Critical | **Level:** Intermediate  
 > **MITRE ATT&CK:** [T1486 — Data Encrypted for Impact](https://attack.mitre.org/techniques/T1486/)  
-> **Status:** Investigation and containment discussed; the final ticket checklist was **not independently confirmed complete** in the recorded session.  
+> **Status:** The learner confirms the incident ticket and all simulator checklist requirements were completed. Independent forensic verification was not performed.  
 > **Scope:** Educational case study, not evidence of a real production incident.
 
 ## Investigation objective
