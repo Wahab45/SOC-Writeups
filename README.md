@@ -17,6 +17,7 @@ Evidence-based SOC investigation notes from simulated training labs and previous
 | 07 | [Ransomware Suspicion on a File Server](07-Ransomware-File-Server-T1486.md) | EDR triage, SMB writes, endpoint isolation, backup recovery checks | Work Trainer simulated SOC lab |
 | 08 | [Suspicious Encoded PowerShell](08-Suspicious-Encoded-PowerShell-T1059-001.md) | Word-to-PowerShell process chain, Base64 decoding, containment | Work Trainer simulated SOC lab |
 | 09 | [Suspicious Large Outbound Data Transfer](09-Suspicious-Large-Outbound-Data-Transfer.md) | DLP alert, 12.9 GB outbound-transfer triage, baseline caveats, simulated containment | Work Trainer simulated SOC lab |
+| 10 | [Credential Dumping on a Domain Controller](10-Credential-Dumping-And-Lateral-Movement-T1003-001.md) | Windows Event IDs, LSASS dump suspicion, session correlation, simulated containment | Work Trainer simulated SOC lab |
 
 ## Publication standards
 
