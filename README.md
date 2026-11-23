@@ -19,6 +19,7 @@ Evidence-based SOC investigation notes from simulated training labs and previous
 | 09 | [Suspicious Large Outbound Data Transfer](09-Suspicious-Large-Outbound-Data-Transfer.md) | DLP alert, 12.9 GB outbound-transfer triage, baseline caveats, simulated containment | Work Trainer simulated SOC lab |
 | 10 | [Credential Dumping on a Domain Controller](10-Credential-Dumping-And-Lateral-Movement-T1003-001.md) | Windows Event IDs, LSASS dump suspicion, session correlation, simulated containment | Work Trainer simulated SOC lab |
 | 11 | [Suspicious DNS TXT Queries](11-DNS-Tunneling-T1071-004.md) | DNS tunneling indicators, safe Base64 decoding, simulated domain blocking | Work Trainer simulated SOC lab |
+| 12 | [Suspicious Periodic C2 Beaconing](12-Suspicious-Periodic-C2-Beaconing-T1071.md) | Fixed 60-second connections, traffic-size analysis, C2 hypothesis and egress containment | Work Trainer simulated SOC lab |
 
 ## Publication standards
 
